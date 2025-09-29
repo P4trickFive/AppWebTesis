@@ -1,4 +1,0 @@
-pip install Flask
-pip install -U Flask-SQLAlchemy
-pip install pytz
-pip install pandas
